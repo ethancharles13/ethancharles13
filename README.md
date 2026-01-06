@@ -15,7 +15,7 @@
   </a>
 </p>
 
-## Recent Project
+## Recent Projects
 1. [Cloud based web application that uses AI to help prepare for coding interviews](https://github.com/mr2447/coding_interviewer) (AWS, React, Python, PostgreSQL)
   - A production-grade web application in which users ask an AI agent for coding interview challenges, receive hints from the AI agent, and receive results after submitting their solutions. Can currently be accessed [here](https://d218nvq550m5aj.cloudfront.net/).
 2. [Pinterest-like Web Application](https://github.com/ethancharles13/PinboardRepo) (Django, PostgreSQL, Python, HTML)
