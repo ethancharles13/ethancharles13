@@ -10,7 +10,7 @@
   <a href="mailto:ethan.bell@nyu.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=202020" alt="Email">
   </a>
-  <a href="www.linkedin.com/in/ethan-bell-077765141">
+  <a href="https://www.linkedin.com/in/ethan-bell-077765141">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=202020" alt="LinkedIn">
   </a>
 </p>
